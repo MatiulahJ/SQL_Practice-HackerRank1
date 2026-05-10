@@ -1,30 +1,29 @@
-# SQL Practice
+# SQL_Practice-HackerRank
 
-This repository contains SQL exercises, query examples, and mini-projects designed to strengthen SQL proficiency and demonstrate analytical and problem-solving skills.
+This repository contains SQL practice exercises, query examples, and solutions completed through HackerRank and other learning resources. The purpose of this repository is to improve SQL skills, practice solving database problems, and build experience with data analysis.
 
 ## Overview
 
-The repository is organized to support structured SQL practice across foundational, intermediate, and analytical topics. It includes examples and case studies that can be used for self-study, interview preparation, and portfolio development.
+The repository is organized by different SQL topics and includes beginner to intermediate level practice problems. It is used for learning, interview preparation, and portfolio development.
 
 ## Topics Covered
 
 - SELECT statements
-- Filtering with WHERE
-- Sorting with ORDER BY
-- INNER, LEFT, RIGHT, and FULL JOINs
-- Aggregations and GROUP BY
+- WHERE filtering
+- ORDER BY sorting
+- JOINs
+- GROUP BY and aggregate functions
 - Subqueries
 - Common Table Expressions (CTEs)
 - Window functions
-- String, date, and time functions
+- String functions
+- Date and time functions
 - Data cleaning and transformation
-- Analytical case studies
 
 ## Repository Structure
 
 ```text
 .
 ├── queries/
-├── datasets/
 ├── solutions/
 └── README.md
