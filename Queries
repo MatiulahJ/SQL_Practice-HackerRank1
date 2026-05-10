@@ -1,0 +1,5 @@
+1) Show all cities that has population more than 100000?
+2) Select only cities that has a population more than 120000?
+3) Query city that has a specific id 1661? 
+4) Display name of cities where the country code is JPN?
+5) Display distinct city that has an even id number?
