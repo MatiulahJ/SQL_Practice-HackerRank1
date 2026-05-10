@@ -26,8 +26,10 @@ The repository is organized by different SQL topics and includes beginner to int
 .
 ├── queries/
 ├── solutions/
-  └── Basics
-    └── Select.sql
-  └── Intermediate
-    └── Joins.sql
+│   ├── basic/
+│   │   └── select.sql
+│   │
+│   └── intermediate/
+│       └── joins.sql
+│
 └── README.md
