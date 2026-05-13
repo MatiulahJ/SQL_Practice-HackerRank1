@@ -1,10 +1,10 @@
-#1
+-- #1
 SELECT * FROM CITY
 WHERE CountryCode = 'USA'
 AND 
 Population > 100000;
 
-#2
+-- #2
 SELECT Name
 FROM CITY
 WHERE 
@@ -12,16 +12,22 @@ Population > 120000
 AND
 CountryCode = 'USA';
 
-#3
+-- #3
 SELECT * FROM CITY
 WHERE ID = 1661;
 
-#4
+-- #4
 SELECT NAME FROM CITY
 WHERE COUNTRYCODE = 'JPN';
 
-#5
+-- #5
 SELECT DISTINCT CITY 
 FROM STATION
 WHERE ID % 2 = 0; 
+
+-- #6
+SELECT COUNT(CITY) - COUNT(DISTINCT CITY)
+FROM STATION;
+
+
 
