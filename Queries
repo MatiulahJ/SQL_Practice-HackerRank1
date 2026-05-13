@@ -10,4 +10,4 @@
 10) Show cities that is not starting with vowels?
 11) Show cities that is not ending with vowels?
 12) Query only those cities that do not start with vowels or never ends with vowels?
-
+13) Retrive students that got more than 75 points, order them by last 3 character of the name if tie, then order them by ID in ascending order?
