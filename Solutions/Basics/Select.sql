@@ -85,6 +85,14 @@ FROM STUDENTS
     WHERE MARKS > 75
     ORDER BY RIGHT(NAME, 3), ID ASC;
 
+-- #14
+SELECT name 
+FROM Employee
+    WHERE salary > 2000
+    AND months < 10
+    ORDER BY employee_id ASC;
+
+
 
 
 
