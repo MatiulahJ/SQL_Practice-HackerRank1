@@ -3,3 +3,5 @@
 3) Query city that has a specific id 1661? 
 4) Display name of cities where the country code is JPN?
 5) Display distinct city that has an even id number?
+6) Find the difference between overall total cities and non duplicated cities?
+
