@@ -9,5 +9,5 @@
 9) Show cities that has vowels at the start and at the end?
 10) Show cities that is not starting with vowels?
 11) Show cities that is not ending with vowels?
-12) Query only those cities that do not start with vowels and never ends with vowels?
+12) Query only those cities that do not start with vowels or never ends with vowels?
 
